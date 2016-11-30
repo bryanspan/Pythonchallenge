@@ -5,6 +5,7 @@
 # @File     : 20.py
 # @Function : http://www.pythonchallenge.com/pc/hex/idiot2.html
 # @Software : PyCharm
+# @Solution : http://kwangka.github.io/2015/02/03/pc20/
 import inspect
 import  wave
 wavf = wave.open(r'indian.wav','rb')
